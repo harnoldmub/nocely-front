@@ -60,12 +60,12 @@ const FR = {
       description: "Créez votre site de mariage, gérez vos invités et recevez de l'argent — en quelques minutes.",
       primaryCta: "Commencer gratuitement",
       secondaryCta: "Découvrir",
-      highlights: ["100% gratuit pour démarrer", "Site prêt en 3 min", "Paiements sécurisés"],
+      highlights: ["100% gratuit pour démarrer", "Site prêt en 1 min", "Paiements sécurisés"],
     },
     stats: [
       { value: "2 500+", label: "couples heureux" },
       { value: "98%", label: "de satisfaction" },
-      { value: "3 min", label: "pour créer votre site" },
+      { value: "1 min", label: "pour créer votre site" },
       { value: "150k+", label: "invités gérés" },
     ],
     productExperience: {
@@ -88,7 +88,7 @@ const FR = {
       titleLine2: "en quelques étapes",
       description: "En quelques étapes simples, votre mariage prend vie en ligne.",
       steps: [
-        { kicker: "Démarrer", title: "Créez votre espace", description: "Répondez à quelques questions simples. Votre site de mariage personnalisé est prêt en 3 minutes." },
+        { kicker: "Démarrer", title: "Créez votre espace", description: "Répondez à quelques questions simples. Votre site de mariage personnalisé est prêt en 1 minute." },
         { kicker: "Personnaliser", title: "Personnalisez à votre image", description: "Choisissez vos couleurs, vos polices, vos photos. Daylora s'adapte à votre vision." },
         { kicker: "Invitations", title: "Invitez vos proches", description: "Envoyez des invitations personnalisées avec un lien unique. Vos invités confirment en un clic." },
         { kicker: "Publier", title: "Publiez et profitez", description: "Votre site est en ligne. Gérez les RSVP, la cagnotte et bien plus depuis votre tableau de bord." },
@@ -170,7 +170,7 @@ const FR = {
     faq: {
       title: "Questions fréquentes",
       items: [
-        { question: "Combien de temps faut-il pour créer mon site ?", answer: "En moyenne 3 minutes. On vous pose quelques questions, et votre site est prêt à être partagé." },
+        { question: "Combien de temps faut-il pour créer mon site ?", answer: "En moyenne 1 minute. On vous pose quelques questions, et votre site est prêt à être partagé." },
         { question: "Mes invités ont-ils besoin de créer un compte ?", answer: "Non, jamais. Votre site est accessible à tout le monde, sans inscription. Vos invités confirment leur présence en un seul clic." },
         { question: "Comment fonctionne la cagnotte ?", answer: "Les paiements passent par Stripe, le système de paiement le plus utilisé au monde. Chaque don est accompagné d'un message et vous voyez les montants en direct." },
         { question: "Puis-je modifier mon site après la création ?", answer: "Bien sûr. Couleurs, polices, images, textes — vous pouvez tout changer à tout moment depuis votre espace. Vous pouvez même changer de modèle." },
