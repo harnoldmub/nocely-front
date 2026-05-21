@@ -63,10 +63,10 @@ const FR = {
       highlights: ["100% gratuit pour démarrer", "Site prêt en 1 min", "Paiements sécurisés"],
     },
     stats: [
-      { value: "2 500+", label: "couples heureux" },
+      { value: "100+", label: "couples heureux" },
       { value: "98%", label: "de satisfaction" },
       { value: "1 min", label: "pour créer votre site" },
-      { value: "150k+", label: "invités gérés" },
+      { value: "300+", label: "invités gérés" },
     ],
     productExperience: {
       badge: "Expérience",
@@ -164,7 +164,7 @@ const FR = {
       items: [
         { name: "Sophie & Marc", location: "Paris, France", quote: "Daylora a transformé notre mariage. Nos invités étaient bluffés par la qualité du site. La cagnotte en ligne a simplifié tout le processus." },
         { name: "Amélie & James", location: "Lyon, France", quote: "Le live pendant la soirée était magique ! Les messages des invités s'affichaient en direct avec des confettis. Un moment inoubliable." },
-        { name: "Fatou & Olivier", location: "Bordeaux, France", quote: "Créer notre site a pris 5 minutes. Le résultat est digne d'un studio professionnel. Nos invités ont confirmé via le RSVP en un instant." },
+        { name: "Ketsia & Chadrack", location: "Kinshasa, RD Congo", quote: "Daylora nous a permis d'organiser notre mariage depuis Kinshasa avec des invités partout dans le monde. Simple, beau et efficace — un vrai coup de cœur." },
       ],
     },
     faq: {
